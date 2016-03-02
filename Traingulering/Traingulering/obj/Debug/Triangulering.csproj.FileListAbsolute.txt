@@ -1,0 +1,8 @@
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\bin\Debug\Traingulering.exe.config
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\obj\Debug\Traingulering.exe
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\obj\Debug\Traingulering.pdb
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\bin\Debug\Traingulering.exe
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\bin\Debug\Traingulering.pdb
+C:\Users\Mysjkin\Desktop\Traingulering\Traingulering\bin\Debug\Traingulering.exe.config
+C:\Users\Mysjkin\Desktop\Traingulering\Traingulering\obj\Debug\Traingulering.exe
+C:\Users\Mysjkin\Desktop\Traingulering\Traingulering\obj\Debug\Traingulering.pdb

@@ -1,0 +1,6 @@
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\bin\Debug\Traingulering.exe.config
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\bin\Debug\Traingulering.exe
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\bin\Debug\Traingulering.pdb
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\obj\Debug\Traingulering.csprojResolveAssemblyReference.cache
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\obj\Debug\Traingulering.exe
+c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traingulering\obj\Debug\Traingulering.pdb
