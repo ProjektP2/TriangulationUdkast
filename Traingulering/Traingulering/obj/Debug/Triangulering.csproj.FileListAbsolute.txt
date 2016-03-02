@@ -6,3 +6,9 @@ c:\users\anders brams\documents\visual studio 2015\Projects\Traingulering\Traing
 C:\Users\Mysjkin\Desktop\Traingulering\Traingulering\bin\Debug\Traingulering.exe.config
 C:\Users\Mysjkin\Desktop\Traingulering\Traingulering\obj\Debug\Traingulering.exe
 C:\Users\Mysjkin\Desktop\Traingulering\Traingulering\obj\Debug\Traingulering.pdb
+C:\Users\Mysjkin\Desktop\TriangulationUdkast\Traingulering\Traingulering\bin\Debug\Traingulering.exe.config
+C:\Users\Mysjkin\Desktop\TriangulationUdkast\Traingulering\Traingulering\obj\Debug\Traingulering.exe
+C:\Users\Mysjkin\Desktop\TriangulationUdkast\Traingulering\Traingulering\obj\Debug\Traingulering.pdb
+C:\Users\Mysjkin\Desktop\TriangulationUdkast\Traingulering\Traingulering\bin\Debug\Traingulering.exe
+C:\Users\Mysjkin\Desktop\TriangulationUdkast\Traingulering\Traingulering\bin\Debug\Traingulering.pdb
+C:\Users\Mysjkin\Desktop\TriangulationUdkast\Traingulering\Traingulering\obj\Debug\Triangulering.csprojResolveAssemblyReference.cache
