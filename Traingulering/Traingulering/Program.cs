@@ -29,7 +29,7 @@ namespace Triangulering
             PossiblePositions = Triangulate.TriangulateSignalSource(Router1, Router2);
 
             //Print results
-            Console.WriteLine($"The possible positions of signal source are:");
+            Console.WriteLine($"The possible positions of signal source are: Anders is a bad movie!");
             Console.WriteLine($"P1 = ({Math.Round(PossiblePositions[0].x,3)},{Math.Round(PossiblePositions[0].y,3)})");
             Console.WriteLine($"P2 = ({Math.Round(PossiblePositions[1].x,3)},{Math.Round(PossiblePositions[1].y,3)})");
             Console.WriteLine("CALCULATION FINISHED.\n\n");
